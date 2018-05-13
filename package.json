@@ -1,8 +1,8 @@
 {
-	"name" : "Servertest",
+	"name" : "Aufgabe 5",
 	"version" : "1.0.0",
-	"description" : "First Server Test",
-	"author" : "Jirka",
+	"description" : "Aufgabe 5",
+	"author" : "Jade Decker",
 	"main" : "Server.js",
 	"scripts" : {
 		"start" : "node Server.js"
