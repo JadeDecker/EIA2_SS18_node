@@ -1,7 +1,7 @@
 {
-	"name" : "Aufgabe5",
+	"name" : "Aufgabe8",
 	"version" : "1.0.0",
-	"description" : "Aufgabe 5",
+	"description" : "Aufgabe 8",
 	"author" : "Jade Decker",
 	"main" : "Server.js",
 	"scripts" : {
@@ -11,5 +11,6 @@
 		"node" : "6.11.1"
 	},
 	"dependencies" : {
+		"mongodb": "^3.0.1"
 	}
 }
